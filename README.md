@@ -65,8 +65,8 @@ src/main/java/payment/ecommerce/paymentEco
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/ErickSScarneiro/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/ErickSScarneiro/API-de-Pagamentos.git
+cd API-de-Pagamentos
 
 # 2. Crie o schema no MySQL
 #    CREATE DATABASE pagamento;
