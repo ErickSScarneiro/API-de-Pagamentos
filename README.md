@@ -154,4 +154,4 @@ Cada etapa roda em sua própria transação (`TransactionTemplate`) para não ma
 **Erick Scarneiro**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ErickSScarneiro-181717?logo=github)](https://github.com/ErickSScarneiro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-carneiro-87b23819a/)
